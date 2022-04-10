@@ -4,7 +4,9 @@ Module 16 Big Data
 
 Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-How many Vine reviews and non-Vine reviews were there?
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-Summary: In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+How many Vine reviews and non-Vine reviews were there? There were 90 vine reviews that we determined were useful based on the frequency of reviews
+How many Vine reviews were 5 stars? There were 44 5 Star reviews from the Vine (paid) users. How many non-Vine reviews were 5 stars? Since this sample size was larger there were 14704 unpaid reviews that rated 5 stars.
+What percentage of Vine reviews were 5 stars? The vine (paid) review percentage came in at around 48.8%. What percentage of non-Vine reviews were 5 stars? The unpaid reviews came in at 38.8%. 
+
+
+Summary: There could possibly be a statistical signifcance to the vine reviews. 
