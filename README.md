@@ -21,3 +21,5 @@ In this week's task we were asked to work with PySpark, PostgreSQL, Google Colab
 ![](https://github.com/PDob02/Amazon_Vine_Analysis/blob/main/Images/Greater_than_20_reviews.png)
 
 Summary: There could possibly be a statistical significance to the vine reviews. Further analysis might require a stastical "p-value" test or greater amounts of data from the vine reviewers since there were only 90 samples in that bucket. Additionally, the Vine group may not be a controlled group since they were being compensated monetarily and may give a favorable review to be invited to review again. Overall, we were able to  sample large swaths of big data and produce usable dataframes to back up our assumptions. 
+
+![](https://github.com/PDob02/Amazon_Vine_Analysis/blob/main/Images/Vine_Reviews.png)
